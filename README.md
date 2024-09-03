@@ -28,13 +28,13 @@
 
 <p>then start server ,run command </p>
 <li>php artisan serve.</li>
-
+<hr>
 <p>Show and Delete</p>
 ![image](https://github.com/user-attachments/assets/42519311-c8f0-4330-9816-7c000a7f53a4)
-
+<hr>
 <p>Insert</p>
 ![image](https://github.com/user-attachments/assets/f210d370-d192-4a46-b0c1-a4795e6b9e8e)
-
+<hr>
 <p>Update</p>
 ![image](https://github.com/user-attachments/assets/95b853fb-e09b-41da-ba97-f1ac104fe620)
 
