@@ -14,5 +14,15 @@
 <ul>Validation and Error Handling</ul>
 </li>
 
+<p>Show and Delete</p>
+![image](https://github.com/user-attachments/assets/9c22cde1-043f-4805-9858-990372f93174)
+
+<p>Insert</p>
+![image](https://github.com/user-attachments/assets/5fb74a24-8cd4-4de9-9f9c-e941c80c2912)
+
+<p>Update</p>
+![image](https://github.com/user-attachments/assets/220aec49-d5d4-4ac4-88cc-244ed7e7d01a)
+
+
 
 
