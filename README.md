@@ -14,6 +14,19 @@
 <ul>Validation and Error Handling</ul>
 </li>
 
+<p>To Run Project Locally First insatll Xampp Server and start apache and mysql</p>
+![image](https://github.com/user-attachments/assets/c395deaf-a21b-4d9e-ae4a-0b844318a99f)
+
+<p>After that run command</p>
+php artisan migarte
+
+then run,
+npm intsall
+npm run dev
+
+then start server ,rum command 
+php artisan serve.
+
 <p>Show and Delete</p>
 ![image](https://github.com/user-attachments/assets/42519311-c8f0-4330-9816-7c000a7f53a4)
 
@@ -22,7 +35,5 @@
 
 <p>Update</p>
 ![image](https://github.com/user-attachments/assets/95b853fb-e09b-41da-ba97-f1ac104fe620)
-
-
 
 
