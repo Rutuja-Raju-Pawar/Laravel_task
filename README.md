@@ -18,7 +18,7 @@
 ![image](https://github.com/user-attachments/assets/c395deaf-a21b-4d9e-ae4a-0b844318a99f)
 
 <p>After that run command</p>
-php artisan migarte
+<li>php artisan migarte</li>
 
 <p>then install node,</p>
 <ul>
