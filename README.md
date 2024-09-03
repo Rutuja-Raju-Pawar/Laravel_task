@@ -26,8 +26,8 @@ php artisan migarte
     <ul>npm run dev</ul>
 </li>
 
-<p>then start server ,rum command </p>
-php artisan serve.
+<p>then start server ,run command </p>
+<li>php artisan serve.</li>
 
 <p>Show and Delete</p>
 ![image](https://github.com/user-attachments/assets/42519311-c8f0-4330-9816-7c000a7f53a4)
