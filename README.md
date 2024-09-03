@@ -15,13 +15,13 @@
 </li>
 
 <p>Show and Delete</p>
-![image](https://github.com/user-attachments/assets/9c22cde1-043f-4805-9858-990372f93174)
+![image](https://github.com/user-attachments/assets/42519311-c8f0-4330-9816-7c000a7f53a4)
 
 <p>Insert</p>
-![image](https://github.com/user-attachments/assets/5fb74a24-8cd4-4de9-9f9c-e941c80c2912)
+![image](https://github.com/user-attachments/assets/f210d370-d192-4a46-b0c1-a4795e6b9e8e)
 
 <p>Update</p>
-![image](https://github.com/user-attachments/assets/220aec49-d5d4-4ac4-88cc-244ed7e7d01a)
+![image](https://github.com/user-attachments/assets/95b853fb-e09b-41da-ba97-f1ac104fe620)
 
 
 
