@@ -20,11 +20,13 @@
 <p>After that run command</p>
 php artisan migarte
 
-then run,
-npm intsall
-npm run dev
+<p>then install node,</p>
+<li>
+    <ul>npm intsall</ul>
+    <ul>npm run dev</ul>
+</li>
 
-then start server ,rum command 
+<p>then start server ,rum command </p>
 php artisan serve.
 
 <p>Show and Delete</p>
