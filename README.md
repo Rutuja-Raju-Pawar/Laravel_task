@@ -4,15 +4,15 @@
     This project is a Student Management System implemented using Laravel. It includes functionality for creating, reading, updating, and deleting student records, as well as displaying a paginated, sortable, and searchable list of students using DataTables. The project ensures proper validation and error handling throughout.
 </p>
 <h3>Table of Contents</h3>
-<li>
-<ul>Installation</ul>
-<ul>Configuration</ul>
-<ul>Table Migration</ul>
-<ul>Model Creation</ul>
-<ul>CRUD Functionality</ul>
-<ul>DataTables Integration</ul>
-<ul>Validation and Error Handling</ul>
-</li>
+<ul>
+<li>Installation</li>
+<li>Configuration</li>
+<li>Table Migration</li>
+<li>Model Creation</li>
+<li>CRUD Functionality</li>
+<li>DataTables Integration</li>
+<li>Validation and Error Handling</li>
+</ul>
 
 <p>To Run Project Locally First insatll Xampp Server and start apache and mysql</p>
 ![image](https://github.com/user-attachments/assets/c395deaf-a21b-4d9e-ae4a-0b844318a99f)
@@ -21,10 +21,10 @@
 php artisan migarte
 
 <p>then install node,</p>
-<li>
-    <ul>npm intsall</ul>
-    <ul>npm run dev</ul>
-</li>
+<ul>
+    <li>npm intsall</li>
+    <li>npm run dev</li>
+</ul>
 
 <p>then start server ,run command </p>
 <li>php artisan serve.</li>
